@@ -45,8 +45,8 @@ All routing domains are interconnected using a central router with route redistr
 ## 📷 Network Topology
 
 ### 🔹 Hybrid Topology Overview
-![Topology Part 1](screenshots/topology-part1.png)  
-![Topology Part 2](screenshots/topology-part2.png)
+![Topology Part 1](screenshot/topology-part1.png)  
+![Topology Part 2](screenshot/topology-part2.png)
 
 ---
 
@@ -54,28 +54,28 @@ All routing domains are interconnected using a central router with route redistr
 
 ### 📡 Central Router Routing Table
 (Shows routes learned from RIP, OSPF, EIGRP & BGP)
-![Central Routing](screenshots/central-show-ip-route.png)
+![Central Routing](screenshot/central-show-ip-route.png)
 
 ---
 
 ### 🔁 RIP Routing Table
-![RIP Routes](screenshots/rip-show-ip-route.png)
+![RIP Routes](screenshot/rip-show-ip-route.png)
 
 ### 🔁 OSPF Routing Table
-![OSPF Routes](screenshots/ospf-show-ip-route.png)
+![OSPF Routes](screenshot/ospf-show-ip-route.png)
 
 ### 🔁 EIGRP Routing Table
-![EIGRP Routes](screenshots/eigrp-show-ip-route.png)
+![EIGRP Routes](screenshot/eigrp-show-ip-route.png)
 
 ### 🔁 BGP Routing Table
-![BGP Routes](screenshots/bgp-show-ip-route.png)
+![BGP Routes](screenshot/bgp-show-ip-route.png)
 
 ---
 
 ## 📡 Connectivity Test (Ping Results)
 
 ### ✅ Central Router to All Networks
-![Ping Test](screenshots/ping-test.png)
+![Ping Test](screenshot/ping-test.png)
 
 ---
 
